@@ -1,3 +1,5 @@
+package com.turkcell;
+
 public abstract class Account {
     private int accountNumber;
     private String ownerName;

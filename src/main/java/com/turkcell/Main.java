@@ -1,3 +1,5 @@
+package com.turkcell;
+
 import java.util.Scanner;
 
 public class Main {

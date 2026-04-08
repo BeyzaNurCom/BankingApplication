@@ -1,3 +1,5 @@
+package com.turkcell;
+
 public class Bank {
     private Account[] accounts;
     private int count;

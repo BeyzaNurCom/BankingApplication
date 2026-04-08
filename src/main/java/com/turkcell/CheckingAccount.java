@@ -1,3 +1,5 @@
+package com.turkcell;
+
 public class CheckingAccount extends Account {
     public CheckingAccount(int accountNumber, String ownerName, double balance) {
         super(accountNumber, ownerName, balance);
